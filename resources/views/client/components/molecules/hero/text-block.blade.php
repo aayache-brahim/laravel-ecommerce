@@ -3,6 +3,6 @@
 @endpush
 
 <div class="text-center text-block-hero py-5">
-    <h1>Sustainable yet stylish lifestye</h1>
-    <p>Autem eveniet eum delectus pariatur. Et maiores sit sed placeat quas voluptatum qui. Suscipit veritatis est provident illum commodi. Voluptas quos culpa. Nobis ex nihil laudantium.</p>
+    <h1 class="">Here Where You Can Improve Your Style </h1>
+    <p>Explore Our Amazing  Collections </p>
 </div>
